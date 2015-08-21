@@ -1,0 +1,19 @@
+{
+	"author": "Roeland van den Broeck",
+	"dependencies": [],
+	"license": "none",
+	"name": "schietschijf/win_oracleclient",
+	"operatingsystem_support": [{
+			"operatingsystem": "Windows",
+			"operatingsystemrelease": [ "7"
+			]
+		}
+	],
+	"project_page": "https://github.com/SchietSchijf/win_oracleclient",
+	"requirements": [],
+	"source": "https://github.com/SchietSchijf/win_oracleclient",
+	"summary": "Oracle Client module",
+	"tags": [],
+	"version": "0.1.0",
+	"issues_url": "https://github.com/SchietSchijf/win_oracleclient/issues"
+}
